@@ -1,0 +1,14 @@
+C:\Users\hakim\Downloads\source-archive\no-doze\NoDoze\NoDoze\bin\Release\coffee-full.ico
+C:\Users\hakim\Downloads\source-archive\no-doze\NoDoze\NoDoze\bin\Release\coffee-empty.ico
+C:\Users\hakim\Downloads\source-archive\no-doze\NoDoze\NoDoze\bin\Release\NoDoze.exe.config
+C:\Users\hakim\Downloads\source-archive\no-doze\NoDoze\NoDoze\bin\Release\NoDoze.exe
+C:\Users\hakim\Downloads\source-archive\no-doze\NoDoze\NoDoze\bin\Release\NoDoze.pdb
+C:\Users\hakim\Downloads\source-archive\no-doze\NoDoze\NoDoze\bin\Release\NoDoze.xml
+C:\Users\hakim\Downloads\source-archive\no-doze\NoDoze\NoDoze\obj\Release\NoDoze.vbproj.AssemblyReference.cache
+C:\Users\hakim\Downloads\source-archive\no-doze\NoDoze\NoDoze\obj\Release\NoDoze.NoDozeOptions.resources
+C:\Users\hakim\Downloads\source-archive\no-doze\NoDoze\NoDoze\obj\Release\NoDoze.Resources.resources
+C:\Users\hakim\Downloads\source-archive\no-doze\NoDoze\NoDoze\obj\Release\NoDoze.vbproj.GenerateResource.cache
+C:\Users\hakim\Downloads\source-archive\no-doze\NoDoze\NoDoze\obj\Release\NoDoze.vbproj.CoreCompileInputs.cache
+C:\Users\hakim\Downloads\source-archive\no-doze\NoDoze\NoDoze\obj\Release\NoDoze.exe
+C:\Users\hakim\Downloads\source-archive\no-doze\NoDoze\NoDoze\obj\Release\NoDoze.xml
+C:\Users\hakim\Downloads\source-archive\no-doze\NoDoze\NoDoze\obj\Release\NoDoze.pdb
